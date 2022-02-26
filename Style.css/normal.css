@@ -1,38 +1,143 @@
+/* @media screen and (min-width:480){ */ */
 body{
     padding:4px;
-}
-.container-fluid{
-    padding: 6px;
-    background-color:rgb(2, 59, 59);
 
 }
-.container{
+.container-box{
+     padding: 6px;
+     color:teal;
+     /* border: 15px palevioletred; */
+     background-color: whitesmoke;   
+
+}
+h3{
+    text-align: left;
+    padding-top: 20%;
+    text-shadow: 3px;
+}
+.img-tag{
+    text-align: end;
+    padding-top:60%;
+    padding-left:40%;
+    padding-bottom: 6px; 
+    
+}
+.fa-solid.fa-phone{
+    color:rgb(68, 44, 67);
+    text-align:left;
+    font-size: large;
+    padding-top: 50px;
+    padding-left: 10px;
+    
+}
+.fa-solid.fa-phone :hover{
+    cursor: alias;
+} 
+.fa-brands.fa-whatsapp{
+    color:rgb(68, 44, 67);
+    text-align:left;
+    font-size: x-large;
+    padding-top: 30px; 
+    padding-left:20px;
+}
+.fa-solid.fa-envelope{
+    color:rgb(68, 44, 67);
+    text-align:left;
+    font-size: x-large;
+    padding-top: 30px;
+    padding-left:20px;
+}
+/* .container{
     padding-top: 100px;
     text-align: left;
     font-size:large;
     font-style: italic;
-    color:white;
-   
-
-}
+    color:tan; */
+/* } */
 header img{
     float: right;
 
 }
-H1{
-    color: brown;
+h1{
+    color:rgb(68, 44, 67);
     font-style: italic;
     font-size: medium;
 }
+h6{
+    color:rgb(68, 44, 67);
+}
+h5{
+    color:whitesmoke;
+}
 .main_box{
-    background-color:goldenrod;
     padding-bottom: 15px;
-    border-radius: 5px white;
-}
-.aboutme{
-    background-color: rgb(2, 59, 59);
+     /* border-radius: 5px teal; */
     color:black;
+    background-color: teal;
 }
-.aboutme p {
+.aboutme-box{
+    color:black;
+    background-color:teal;
+    padding-top: 0%;
+
+}
+.aboutme-box p{
     font-weight: 300;
+}
+.aboutme-box a{
+     color:rebeccapurple;
+}
+.button{
+    margin: 7px rgb(68, 44, 67);
+    color:gray;
+    background-color: bisque;
+    border-top: 2px;
+    
+}
+/* hr{
+   color: whitesmoke;
+   height: 30px;
+} */
+h6{
+    color: black;
+    font-display:inherit;
+    font-style: italic;
+}
+.col-sm-4{
+    margin: 4px goldenrod;
+    padding:10px;
+}
+.ul-box{
+    float:left;
+    width:50%;
+    background-color: teal;
+}
+.ol-box{
+    float:right;
+    width: 50%;
+    color:black;
+    background-color: teal;
+}
+.Contact-box{
+    background-color: teal;
+    color: black;
+    float :left;
+    width:100%;
+}
+.Contact-box a{
+    color: blue;
+}
+
+
+
+@media screen and (min-width:480){
+   body{
+       padding:2px
+   }
+   .button{
+    margin: 7px rgb(163, 55, 160);
+    color:rgb(190, 131, 131);
+    background-color: bisque;
+    border-top: 2px;
+   }
 }
