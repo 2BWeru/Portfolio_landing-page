@@ -3,15 +3,15 @@ body{
 }
 .container-fluid{
     padding: 6px;
-    background-color:teal;
-    
+    background-color:rgb(2, 59, 59);
+
 }
 .container{
     padding-top: 100px;
     text-align: left;
     font-size:large;
     font-style: italic;
-    color: gainsboro;
+    color:white;
    
 
 }
@@ -24,4 +24,15 @@ H1{
     font-style: italic;
     font-size: medium;
 }
-
+.main_box{
+    background-color:goldenrod;
+    padding-bottom: 15px;
+    border-radius: 5px white;
+}
+.aboutme{
+    background-color: rgb(2, 59, 59);
+    color:black;
+}
+.aboutme p {
+    font-weight: 300;
+}
