@@ -1,8 +1,9 @@
-# Wamaitha Portfolio
+# Portfolio_landing-page
 ***
 # Betty Wamaitha
 ***
-## Wamaitha Porfolio -is a standalone web page created to market my work as a Web Developer.This page provides my contact information , projects that i have done and my biography.
+### Porfolio_landing-page -is a standalone web page created to market my work as a Web Developer.This page provides my contact information and projects that I have done with links to them.pEntails use of HTML and CSS languages and Bootstrap framework.
+
 ## Table of Content:
 1. Introduction.
 2. Contacts.
