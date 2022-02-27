@@ -27,6 +27,10 @@
 ## Contributions
 This project follows the all-contributors specification and is brought to you by these awesome contributors.
 
+## Copyright
+copyright('Copyright (c) 2022.', {author: 'Betty Wamaitha'});
+//=> 'Copyright (c) 2022, Betty Wamaitha.'
+
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Mozilla
