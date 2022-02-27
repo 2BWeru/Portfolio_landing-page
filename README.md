@@ -12,7 +12,8 @@
 6. Hobbies.
 7. Skills.
 ***
-![image] {https://github.com/2BWeru/Portfolio_landing-page/blob/5b56b84e14c5db831999365d307fcc7de33a9d4a/image/Screenshot_2022-02-27_09-15-32.png}
+# Landing page
+![image](/image/Screenshot_2022-02-27_09-15-32.png))
 ## Project Setup:
 - Create Project Folder and files from Terminal. mkdir
 - Create a new repository for your project.
@@ -21,8 +22,8 @@
 - Commit your changes git commit -m ""
 - Push changes to Repository git push
 -  Deploy github pages git clone 
-
-![image]{https://github.com/2BWeru/Portfolio_landing-page/blob/5b56b84e14c5db831999365d307fcc7de33a9d4a/image/Screenshot_2022-02-27_09-16-09.png}
+# Code
+![image](/image/Screenshot_2022-02-27_09-16-09.png)
 ## Contributions
 This project follows the all-contributors specification and is brought to you by these awesome contributors.
 
