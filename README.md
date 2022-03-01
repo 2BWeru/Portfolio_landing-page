@@ -30,8 +30,8 @@
 # Code
 ![image](/image/Screenshot_2022-02-27_09-16-09.png)
 
-## Link To Web Page
-(https://2bweru.github.io/Portfolio_landing-page/)
+##Linkto github pages
+(https://2bweru.github.io/Wamaitha/)
 
 ## Contributions
 This project follows the all-contributors specification and is brought to you by these awesome contributors.
